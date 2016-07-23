@@ -1,4 +1,112 @@
+/*
+ * File: style.css
+ * Author: Zachary Liou
+ * Date created: 2016 July 23
+ * Description: Primary CSS stylesheet for web-lab
+ */
+
+
 * {
 	margin: 0;
 	padding: 0;
 }
+
+body {
+	background-color: #2e2e2e;
+	font-family: 'Scope One', sans-serif;
+}
+
+h1 {
+	padding-top: 15vh;
+	color: white;
+	font-size: 7em;
+	text-align: center;
+	font-weight: 400;
+	letter-spacing: 0.2em;
+	word-spacing: 0.5em;
+}
+
+button {
+	width: 250px;
+    height: 250px;
+    -moz-border-radius: 50%;
+    -webkit-border-radius: 50%;
+    border-radius: 50%;
+
+    background: #c2c2c2;
+    color: white;
+    font-size: 3em;
+    font-family: 'Work Sans', sans-serif;
+    text-transform: uppercase;
+    margin: 0 2vw;
+}
+
+.button-cn {
+	padding-top: 10vh;
+	width: 100vw;
+	height: 50vh;
+	text-align: center;
+}
+
+.red {
+	background: #c0392b;
+}
+
+.yellow {
+	background: #f1c40f;
+}
+
+.green {
+	background: #27ae60;
+}
+
+.blue {
+	background: #2980b9;
+}
+
+/*
+.button-text {
+	font-size: 4em;
+	align-self: center;
+}
+
+.button-container {
+	margin: 20vh 40vw;
+}
+
+#button1 {
+	background-color: #e2e2e2;
+	color: white;
+}
+
+
+
+*/
+/*
+ * Misc.
+ */
+/*
+.button {
+    width: 250px;
+    height: 250px;
+    -moz-border-radius: 50%;
+    -webkit-border-radius: 50%;
+    border-radius: 50%;
+
+    display: flex;
+    justify-content: center;
+}
+
+.button-shadow {
+	margin-top: -200px;
+	position: absolute;
+	z-index: -1;
+	background: black;
+
+	width: 250px;
+    height: 250px;
+    -moz-border-radius: 50%;
+    -webkit-border-radius: 50%;
+    border-radius: 50%;
+    
+}*/

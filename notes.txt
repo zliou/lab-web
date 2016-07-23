@@ -1,0 +1,12 @@
+File: notes.txt
+Author: Zachary Liou
+Date created: 2016 July 23
+
+
+LAB NOTES: lab-web
+
+
+- HTML elements can belong to multiple classes
+	- The classes are space-separated
+- Flex
+- HTML buttons can have dramatic style changes
